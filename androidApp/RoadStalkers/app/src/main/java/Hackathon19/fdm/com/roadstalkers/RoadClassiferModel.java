@@ -1,4 +1,4 @@
-package debugthugs.mdgiitr.com.greenway;
+package Hackathon19.fdm.com.roadstalkers;
 
 public class RoadClassiferModel {
     private String startLat, startLong, endLat, endLong, quality;
