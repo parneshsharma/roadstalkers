@@ -1,5 +1,7 @@
 <resources>
     <string name="app_name">Road Stalkers</string>
+    <string name="road_Condition">Road Condition</string>
+    <string name="show_Variance">Show Variance</string>
     <string name="title_activity_maps">MapsActivity</string>
     <string name="maps_api_key">AIzaSyAzTd_IUCrQxrlDh9mHcvm2xYl039tg5xk</string>
 </resources>

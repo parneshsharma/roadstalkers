@@ -35,6 +35,10 @@ def insertIntoDatabase(lattitude, longitude):
 	      sno
 	    }
 	  }
+	f=open("PotholeLocation.txt","w+");
+	f.write("Latitude    Longitude\n")
+	f.write("%r  %r\r\n" % (lattitude, longitude));
+	f.close()	
 	}
 
     ''')
